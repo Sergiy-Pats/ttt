@@ -2,72 +2,79 @@
 
 ### "Основи керування віртуальними ОС"
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/9f9bff10-8517-483b-814a-3fb794f05d5a)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/6166e001-c93c-4d32-8b80-c7250a22815f)
+
 
 Зображення 1 завдання 2.3.9 "Змінити пароль вашого облікового запису користувача ОС Linux."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/75999b97-28f1-4abc-9dd4-9cb167560172)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/cade1767-287f-46cb-bde9-e9369f506519)
+
 
 Зображення 2 завдання 2.3.10 "Завершити роботу у віддаленому псевдотерміналі через команду exit."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/95369998-4242-4c44-a46b-1ad890747d6a)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/4195cf29-57e9-4233-a261-8b35a17e7521)
+
 
 Зображення 3 завдання 2.3.11 "Знаходячись на локальному комп’ютері, виконати генерацію SSH-ключів за алгоритмом ED25519."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/ea47f556-d287-4399-8369-90b952864db3)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/ed59230b-757a-4807-94b7-3bf18856e2f2)
+
 
 Зображення 4 завдання 2.3.12 "Виконати команду з налаштування встановлення з’єднання із терміналом ОС  Linux без необхідності введення паролю користувача."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/b6495635-d373-46cd-9e8b-989c66fc902d)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/6a8eb1b6-ded6-4993-a873-525147a2f154)
+
 
 Зображення 5 завдання 2.3.13 "Виконати повторне з’єднання з віддаленим псевдотерміналом ОС Linux без  необхідності введення паролю користувача."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/b2146981-960e-4955-8b4f-a6adcb90fcd1)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/001092d9-0dce-4711-ae43-77b7e730493b)
+
 
 Зображення 6 завдання 2.3.14 "Завершити роботу у віддаленому псевдотерміналі."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/f9a4077a-dbea-43cd-a397-202bb05e23ff)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/9d1cb3ac-343f-446c-b68b-eaa65b4fd5f2)
+
 
 Зображення 7 завдання 2.3.15 "Вимкнути режим безпарольного SSH-з’єднання з віддаленим сервером."
 
 ### "Створення групи користувача та облікового запису користувача ОС Linux"
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/211c9cc2-298f-4309-a965-bb40eb251a57)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/6603d6df-647b-487b-97c7-09433be0bd35)
 
 Зображення 8 завдання 2.4.1 "Встановити SSH-з’єднання із віртуальною ОС Linux, яка створена у розділі 2.1."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/2b434b14-b9cd-4297-9ed8-14890d29928a)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/a2ed7cdb-6a3c-4fd2-aa53-10818fc0527c)
 
 Зображення 9 завдання 2.4.2 "Створити групу користувача, назва якої співпадає з назвою вашої студентської  групи транслітерацією, наприклад, AI211."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/9b8430a0-8c54-40a3-b1d5-8cd2f3a681a2)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/c91de841-a4a6-45ca-b863-2c3c029236e5)
 
 Зображення 10 завдання 2.4.3 "З використанням не інтерактивної команди створити обліковий запис користувача"
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/44603f1c-0a75-4efd-9374-6741c0d2e18c)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/8539d4ce-5c03-4182-b3b9-ddcf8ee6275d)
 
 Зображення 11 завдання 2.4.4 "Запустити другий псевдотермінал Git Bash та ще раз з’єднатися з віртуальною
 ОС Linux під іменем створеного користувача. Розташувати на екрані два псевдотермінали
 поряд одним з одним: один термінал з основним користувачем, другий термінал зі створеним
 користувачем."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/434b3f75-5afe-4e32-a800-c9a19c7e2646)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/1570e9e7-644c-44d0-9268-8c8e90e600e6)
 
 Зображення 12 завдання 2.4.5 "У другому псевдотерміналі отримати на екран з файлу /etc/password один рядок
 з описом облікового запису створеного користувача, а з файлу /etc/group – рядок з описом
 створеної групи, використовуючи команду grep."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/ae8463e0-26fa-4e81-ae06-b4a8d9d70dc3)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/70f2c536-cecf-4a21-9075-34f768f0e76f)
 
 Зображення 13 завдання 2.4.6 "У другому псевдотерміналі отримати на екран список активних псевдотерміналів користувача, який працює у першому псевдотерміналі."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/d7fe2c84-509b-402d-90a2-aa1ff7386a92)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/0cccc724-26d7-454b-8cd4-54f610c9d965)
 
 Зображення 14 завдання 2.4.7 "У другому псевдотерміналі виконати команду передачі повідомлення до
 першого псевдотерміналу, вказавшу рядок з вашим прізвищем та ім’ям, після чого завершити
 роботу з командою внесення."
 
-![image](https://github.com/OS-IS/ai234-patsora/assets/78663930/44d5acdc-8c37-43df-b6bc-e8de32482366)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/7c749aa4-b17d-4e4d-90e5-f21dd06352ff)
 
 Зображення 15 завдання 2.4.10 "У першому псевдотерміналі видалити обліковий запис користувача, створений
 у пункті 2.4.3"
