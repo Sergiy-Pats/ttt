@@ -426,3 +426,66 @@ SSH-команду від імені користувача, створеног�
 - приклад повідомлення про помилку щодо порушення обмеження.
 
 
+-----------------------------------------------------------
+
+## «Основи об’єктно-орієнтованого керування об’єктами ОС в командному інтерпретаторі MS PowerShell»
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/385ac7df-4d1a-4844-a3a0-107087830137)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/15d649e6-21ee-4e86-b293-3fbc07de21f7)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/49c709be-30b9-4d25-9337-0f3a36d8bd21)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/8bd27a98-5b51-4095-8597-345e25ebb75e)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/1511fbdc-1180-4b04-8268-a5a459a1204d)
+
+«Рис. 1 – рішення завдань 1-5»
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/2e5653b5-041d-4bec-8aab-1493c314075a)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/48048e33-dc93-4cc0-858c-50aebf494ebd)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/e1ed9821-44b0-4041-a82b-f54be23cb55f)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/704a8299-e19b-4d6d-9844-0d8de2fead3f)
+
+«Рис. 2 – рішення завдань 6-9»
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/a090848b-47bf-4e9a-86c6-d7f1efbb7fdd)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/3fc4a459-c041-4ae2-aed9-13e4cfefcb5e)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/e583bf3e-5640-41e0-8171-2ea0d3dc60ed)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/4da229a2-319a-491e-a620-cbe8f73c8633)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/8407946a-52e0-4666-ab12-6d01b28cac2c)
+
+«Рис. 3 – рішення завдань 10-14»
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/b32cb886-e6eb-4df8-83b7-28f43cd1a911)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/81e71ee7-b30e-4696-a59d-ac62ec8e6221)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/8204b4e0-c636-4104-a9db-a69cc64ba805)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/3cbb7f90-d93f-4047-81a3-bde509fcc76a)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/05fec039-aabb-48ff-b957-c13a4f4b8e48)
+
+«Рис. 4 – рішення завдань 15-19»
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/29563fd5-c039-45e5-9bde-e202ba1fbaf2)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/90de35b2-425e-4aff-9dd9-20b6c1bd5ba8)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/d5b33dfd-3dcd-4fbd-8f29-1a81a33b35e7)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/f71963c4-ef0a-4368-9314-f0fe776bc67a)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/04391de8-46c4-49e6-83a9-fb69e41971f2)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/f67d9b5f-feee-4bb6-b025-ce001fa4451b)
+
+«Рис. 5 – рішення завдань 20-24»
