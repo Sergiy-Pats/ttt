@@ -103,7 +103,7 @@ INSERT INTO назва таблиці ..., COMMIT);
 
 ### 2.5 Побудова програми перегляду рядків реляційної таблиці
 
-![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/39d8200e-0c84-4251-a482-16bcd34902ec)
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/1cb4f9bd-40d7-4ab7-9797-2106215edb48)
 
 2.5.1 Створити файл як програмний модуль з назвою «get_назва таблиці».с із описом
 функції перегляду рядків реляційної таблиці, яка повинна містити:
@@ -112,3 +112,83 @@ SELECT ... FROM назва таблиці ..., COMMIT);
 - повідомлення про результат виконання кожної команди.
 Команду SELECT ... FROM створити за прикладом з попередньої лабораторної
 роботи.
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/e7d02370-5b53-4d23-a5d0-d217f428d2f3)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/c2b888c2-15e0-43e7-afb0-6b583f64793a)
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/a35fc1da-9bb4-40e1-b6af-2fcacf9a963f)
+
+2.5.2 Оновити раніше створені файли:
+- додати до файлу «назва таблиці».h декларацію нової функції;
+- виконати виклик нової функції із main-фукції файлу «назва таблиці».c
+- додати опис нової мети у файл Makefile
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/1e9538db-799e-447a-b1dc-c161e1eabc38)
+
+2.5.3 Скомпілювати С-файли програмних модулів командою make.
+Перевірити роботу executable-файла.
+
+### 2.6 Додаткове налаштування процесу керування файлами через команду make
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/b99d044d-1331-4bf0-81c6-0ebda8af4764)
+
+2.6.1 Додати до файлу Makefile наступні описи мети:
+install – копіювання executable-файлу до каталогу bin домашнього каталогу
+користувача postgres, наприклад, /var/lib/postgresql/bin/ (попередньо створити такий
+каталог);
+clean – видалення всіх object-файлів та executable-файлу.
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/84dc0705-b79e-464b-98be-2f95c9e72f51)
+
+2.6.2 Виконати команду make з метою clean.
+Перевірити відсутність всіх object-файлів та executable-файлу.
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/b2475e3f-7b6a-4223-b68a-2ff623e2efb8)
+
+2.6.3 Скомпілювати С-файли програмних модулів командою make.
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/32b80d4d-a7b2-417c-a939-5eee69f39b5d)
+
+2.6.4 Виконати команду make з метою install.
+Перевірити наявність executable-файлу у відповідному каталозі.
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/a8fb34fe-177e-436d-aa4e-58515a173922)
+
+Змін в файлах не було, компіляція не відбулася.
+
+2.6.5 Повторно скомпілювати С-файли програмних модулів командою make. Надати
+висновки щодо повідомлення команди.
+
+### 2.7 Огляд етапів побудови С-програми GNU-компілятором GCC
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/9049fc6e-6035-4218-8fe5-4f3f171a1ef9)
+
+2.7.1 Виконати prepocessing-етап для вказаного файлу, зберігши результат у файлі
+«назва таблиці.i».
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/15ec8db2-f358-45e4-9301-38dc4561fe6c)
+
+2.7.2 Виконати compilation-етап для файлу «назва таблиці.i», зберігши результат у
+файлі «назва таблиці.s».
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/77c08cc3-bb69-4604-bbc7-b0b69aeb1cea)
+
+2.7.3 Повторити compilation-етап для файлу «назва таблиці.i» з оптимізацію
+програмного коду, зберігши результат у файлі «назва таблиці_opt.s», та визначити відсоток
+зменшення кількості рядків після оптимізації.
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/1fed4775-ce5c-499a-8739-42cbceb19632)
+
+2.7.4 Виконати assembly-етап для файлу «назва таблиці.i» та зберегти результат у
+object-файлі «назва таблиці.o».
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/34f64daf-29e4-4d19-869d-3bc0e487c40e)
+
+2.7.5 Визначити командний рядок виконання linking-етапу для файлу «назва
+таблиці.o».
+
+![image](https://github.com/Sergiy-Pats/ttt/assets/78663930/55a8d210-ce83-44df-9915-f1d4d9bd638e)
+
+2.7.7 Переглянути список файлів динамічних бібліотек, пов’язаних зі створеним
+executable-файлом.
